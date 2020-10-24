@@ -11,7 +11,7 @@
     6 You can use them to take notes right inline */
 
     *{
-      border: 1px dashed black;
+      border: 3px solid black;
     }
 
     body {
@@ -50,7 +50,6 @@
       margin: 30px;
     }
 
-
     </style>
 
   </head>
@@ -79,7 +78,7 @@
 <footer>
   <ul>
     <li>Black Widow</li>
-    <img src="https://live.staticflickr.com/7126/7122168441_177a3c0fc9_b.jpg" alt="BlackWidow" width=240 height=200 />
+    <img 1 src="https://live.staticflickr.com/7126/7122168441_177a3c0fc9_b.jpg" alt="BlackWidow" width=240 height=200 />
     <li>Harley Quinn</li>
     <img src="https://p1.pxfuel.com/preview/210/867/734/joker-toy-clown-cartoon-toys-character.jpg" alt="HarleyQuinn" width=240 height=200 />
     <li>Wolverine</li>
@@ -103,9 +102,13 @@
 <footer>
   <ul>
     <li>Like to play video games on my switch and xbox</li>
+    <img src="https://cdn.pixabay.com/photo/2017/01/23/17/49/xbox-2003277__340.jpg" alt="Xbox Controller" width=260 height=200 /> <img src="https://p0.pikrepo.com/preview/79/409/blue-and-orange-nintendo-switch-on-table.jpg" alt="Nintendo Switch Controller" width=260 height=200 />
     <li>Like to draw in my notebooks and paint ceramic statues</li>
+<img src="https://p1.pxfuel.com/preview/851/105/273/copy-space-notebook-wooden-journal-writing-diary.jpg" alt="Pencil and Notebook" width=260 height=200 /> <img src="https://p1.pxfuel.com/preview/833/860/886/paint-supplies-top-brush-art-creative.jpg" alt="Paint" width=260 height=200 />
     <li>Like to hang out with my friends whenever we can hang out</li>
+    <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/105044542_1197128457290642_4631676231880371600_n.jpg?_nc_cat=106&ccb=2&_nc_sid=ae9488&_nc_ohc=14D0CVDR9JkAX9X7xiI&_nc_ht=scontent-sea1-1.xx&oh=152666a41c38b581822d03ab07c107fe&oe=5FBBC279" alt="My Friend, Baby Yoda, and I" width=260 height=400 />
     <li>Like to read comic books</li>
+    <img src="https://p1.pxfuel.com/preview/2/974/323/comics-comicshop-superhero-read.jpg" alt="Comicbooks" width=260 height=400 />
   </ul>
 </footer>
 
@@ -120,11 +123,17 @@
 <footer>
   <ul>
     <li>Spaghetti</li>
+    <img src="https://cdn.pixabay.com/photo/2019/10/13/14/23/spaghetti-bolognese-4546233_1280.jpg" alt="Spaghetti" width=350 height=300 />
     <li>Pizza Casserole</li>
+    <img src="https://live.staticflickr.com/8525/8586423486_b9914ffa14_b.jpg" alt="Pizza Casserole" width=350 height=300 />
     <li>Beef Stroganoff</li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Beef_Stroganoff_2.jpg" alt="Beef Stroganoff" width=350 height=300 />
     <li>Cheese Pizza</li>
+    <img src="https://cdn.pixabay.com/photo/2020/05/24/18/20/pizza-5215500_1280.jpg" alt="Cheese Pizza" width=350 height=300 />
     <li>Orange Chicken and White Rice</li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Orange_chicken_%284363046795%29.jpg" alt="Orange Chicken and White Rice" width=350 height=300 />
     <li>Bacon, Egg, Cheeseburger</li>
+    <img src="https://live.staticflickr.com/623/21268072570_9b3a57e2f7_b.jpg" alt="Bacon, Egg< Cheeseburger" width=350 height=300 />
   </ul>
 </footer>
 
