@@ -50,6 +50,13 @@
       margin: 30px;
     }
 
+    h2 {
+      border: 4px solid CadetBlue;
+      margin: 30px;
+    }
+
+    p:hover {text-decoration:none;color:orange;font-weight:bold;}
+
     </style>
 
   </head>
@@ -60,6 +67,10 @@
       <h1>About Me</h1>
     </header>
   </body>
+
+  <header>
+    <h2>My Dog Kodi</h2>
+  </header>
 
 <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/10603708_10203705640375086_6578110471475763131_n.jpg?_nc_cat=111&ccb=2&_nc_sid=ba80b0&_nc_ohc=dv5bioTnY9YAX9ajOwD&_nc_ht=scontent-sea1-1.xx&oh=5e309cc1ae39a522db46f31fcb68bf69&oe=5FB84C73" alt="Dog gif" width=240 height=300 />
 
@@ -78,7 +89,7 @@
 <footer>
   <ul>
     <li>Black Widow</li>
-    <img 1 src="https://live.staticflickr.com/7126/7122168441_177a3c0fc9_b.jpg" alt="BlackWidow" width=240 height=200 />
+    <img src="https://live.staticflickr.com/7126/7122168441_177a3c0fc9_b.jpg" alt="BlackWidow" width=240 height=200 />
     <li>Harley Quinn</li>
     <img src="https://p1.pxfuel.com/preview/210/867/734/joker-toy-clown-cartoon-toys-character.jpg" alt="HarleyQuinn" width=240 height=200 />
     <li>Wolverine</li>
